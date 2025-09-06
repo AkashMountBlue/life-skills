@@ -1,5 +1,4 @@
-# Tiny Habits and Habit Formation
-
+# Tiny Habits 
 ---
 
 ## 1. Tiny Habits - BJ Fogg
